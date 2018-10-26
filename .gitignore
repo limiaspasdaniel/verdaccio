@@ -13,6 +13,7 @@ package-lock.json
 build/
 npm_test-fails-add-tarball*
 yarn-error.log
+htpasswd
 
 
 # Istanbul
